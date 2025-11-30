@@ -73,13 +73,13 @@ Percentage: **79%** (2020)
 
 ## 🔧 **Technical Skills**
 
-**Languages:** C, C++, JavaScript, TypeScript, Python
-**Web Technologies:** HTML, CSS, Node.js, Express.js, React.js, Next.js, Tailwind CSS, Flask, Socket.io, REST API, Koa.js
-**AI/ML:** MCP, GenAI, NLP, Computer Vision, Scikit-Learn, TensorFlow, OpenCV, YOLO
-**Databases:** MySQL, MongoDB, Redis, Firebase
-**Tools:** Git, GitHub, VS Code, Postman
-**Cloud/DevOps:** AWS, GCP, Azure, Terraform
-**Core CS:** DSA, OS, DBMS, Computer Networks
+*Languages:** C, C++, JavaScript, TypeScript, Python
+*Web Technologies:** HTML, CSS, Node.js, Express.js, React.js, Next.js, Tailwind CSS, Flask, Socket.io, REST API, Koa.js
+*AI/ML:** MCP, GenAI, NLP, Computer Vision, Scikit-Learn, TensorFlow, OpenCV, YOLO
+*Databases:** MySQL, MongoDB, Redis, Firebase
+*Tools:** Git, GitHub, VS Code, Postman
+*Cloud/DevOps:** AWS, GCP, Azure, Terraform
+*Core CS:** DSA, OS, DBMS, Computer Networks
 
 ---
 
